@@ -1,5 +1,8 @@
 # ESoC 2026 Proposal: AgenticForecaster for sktime-mcp
 
+**[View Full Proposal](proposal.md)**
+
+
 **Applicant:** Saloni Sharma  
 **GitHub:** [Saloni-0465](https://github.com/Saloni-0465)  
 **Project area:** GC.OS + sktime STEP, sktime agentic/genAI  
