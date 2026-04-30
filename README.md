@@ -12,8 +12,6 @@ This repository contains my European Summer of Code 2026 proposal for an agentic
 
 AgenticForecaster is proposed as an LLM-driven, tool-calling forecasting agent that uses `sktime-mcp` tools as the execution layer, avoids transmitting raw time-series values to the LLM, evaluates a bounded set of candidate forecasting models, and returns explainable outputs with audit logs.
 
-Full proposal: [proposal.md](proposal.md)
-
 ## Relevant Links
 
 - sktime-mcp contributions: <https://github.com/sktime/sktime-mcp/pulls?q=is%3Apr+author%3ASaloni-0465>
